@@ -27,7 +27,7 @@
 
 ## 📫 Get in Touch
 - Email: ketulm12@gmail.com
-- LinkedIn: [your-linkedin-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ketul-makwana-981963256/))
+- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/ketul-makwana-981963256/)
 
 ---
 
