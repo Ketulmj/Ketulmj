@@ -30,5 +30,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketul-makwana-981963256/)
 
 ---
-
-> “Code is like humour. When you have to explain it, it’s bad.” – Cory House
