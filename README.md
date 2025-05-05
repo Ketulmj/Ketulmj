@@ -1,4 +1,4 @@
-# 👋 Hey there! Ketul Makwana here.
+# Hey there! Ketul Makwana here.
 
 ## About Me
 - 💻 Full-stack developer focused on modern web technologies
@@ -23,6 +23,6 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 📫 Get in Touch
+## ✉️ Get in Touch
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ketulm12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketul-makwana-981963256/)
