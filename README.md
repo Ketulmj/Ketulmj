@@ -1,12 +1,13 @@
 # Hey there! Ketul Makwana here.
 
 ## About Me
-- 🌱 Currently learning ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) to deepen my skills in full-stack React development
+- 🌱 Currently learning Next.js to deepen my skills in full-stack React development
 - 💻 Full-stack developer focused on modern web technologies
 - 🧠 Continuously learning and growing through hands-on projects
 - 🚀 Building scalable apps using JavaScript frameworks and backend services
 
 ## Web Technologies
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
