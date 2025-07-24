@@ -1,4 +1,5 @@
 # Hey there! Ketul Makwana here.
+![Profile Views](https://komarev.com/ghpvc/?username=Ketulmj&label=Profile%20Views&style=flat)
 
 ## About Me
 - 🌱 Currently learning Next.js...
