@@ -2,7 +2,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Ketulmj&label=Profile%20Views&style=flat)
 
 ## About Me
-- 🌱 Currently learning Next.js...
 - 💻 Full-stack developer focused on modern web technologies
 - 🧠 Continuously learning and growing through hands-on projects
 - 🚀 Building scalable apps using JavaScript frameworks and backend services
