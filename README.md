@@ -1,6 +1,4 @@
 # Hey there! Ketul Makwana here.
-![Profile Views](https://komarev.com/ghpvc/?username=Ketulmj&label=Profile%20Views&style=flat)
-
 ## About Me
 - 💻 Full-stack developer focused on modern web technologies
 - 🧠 Continuously learning and growing through hands-on projects
